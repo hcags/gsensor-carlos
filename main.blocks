@@ -1,31 +1,31 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="}$EU-W6zSyvE0vSFbY+A" x="-3029" y="84"/><block type="pxt-on-start" id="gs!#sRbQ5kgY+7c[~sa}" disabled="true" x="0" y="0"/><block type="device_forever" id=")b%MW0(3YLQ9lFx4Kgqg" x="436" y="-8"><statement name="HANDLER"><block type="controls_if" id="oDN%VHh4~O@_,waC+/tL"><mutation elseif="3" else="1"/><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="deviceisgesture" id="Z3k0^mk3_#NBac]+Nz$L"><field name="gesture">Gesture.LogoUp</field></block></value><statement name="DO0"><block type="device_show_leds" id="]h@j+tg+eH`qRevn}v[f"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="qQ[O6;i1z/q//ng,gGC%" x="-3029" y="84"/><block type="pxt-on-start" id=":G4D(@O^t%7/sSTqU::e" disabled="true" x="0" y="0"/><block type="device_forever" id="_7?r)Eq12HyOdw-N,fL`" x="436" y="-8"><statement name="HANDLER"><block type="controls_if" id="m5sHfN%6@1bPQ~=p#{L4"><mutation elseif="3" else="1"/><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="deviceisgesture" id="zf0?mJ2)m@@GzE2erQuf"><field name="gesture">Gesture.LogoUp</field></block></value><statement name="DO0"><block type="device_show_leds" id="2.+%ueU+2D^e0Z3xx}wI"><field name="LEDS">`
         # # . # # 
         # # . # # 
         . . # . . 
         # . . . # 
         . # # # .
-        `</field></block></statement><value name="IF1"><block type="deviceisgesture" id="SOaNb#OZ=~Fp;-urlE|0"><field name="gesture">Gesture.LogoDown</field></block></value><statement name="DO1"><block type="device_show_leds" id="*0i8,}^RJ7)-!JPyb/3D"><field name="LEDS">`
+        `</field></block></statement><value name="IF1"><block type="deviceisgesture" id="k0vLf8Y|vi/vV]M@D`r]"><field name="gesture">Gesture.LogoDown</field></block></value><statement name="DO1"><block type="device_show_leds" id="tGnVtG.YQ:YzgQkr|o5r"><field name="LEDS">`
         . # # # . 
         # . . . # 
         . . . . . 
         . . . # . 
         . # . . .
-        `</field></block></statement><value name="IF2"><block type="deviceisgesture" id="]6yL(|P/#Ai%qWK,UT-F"><field name="gesture">Gesture.TiltLeft</field></block></value><statement name="DO2"><block type="device_show_leds" id="jX@gaD5;b+p+k:I|[mO#"><field name="LEDS">`
+        `</field></block></statement><value name="IF2"><block type="deviceisgesture" id=",E~+Fd%cuavZw)F5DgP@"><field name="gesture">Gesture.TiltLeft</field></block></value><statement name="DO2"><block type="device_show_leds" id="NwbQZz2pT6:TP}2uoq{="><field name="LEDS">`
         # . . . . 
         . # . # . 
         . # . . . 
         . # . # . 
         # . . . .
-        `</field></block></statement><value name="IF3"><block type="deviceisgesture" id="dgNjfR}*xCY[VvTqNEZ1"><field name="gesture">Gesture.TiltRight</field></block></value><statement name="DO3"><block type="device_show_leds" id="/gt.yP=u]Pq2y4!0[RfZ"><field name="LEDS">`
+        `</field></block></statement><value name="IF3"><block type="deviceisgesture" id="YXv_;Ri00y7:(aq^t5U*"><field name="gesture">Gesture.TiltRight</field></block></value><statement name="DO3"><block type="device_show_leds" id="+mI}vo2{qY=G#=m,d?uI"><field name="LEDS">`
         . . . # . 
         . # . . # 
         . . . . # 
         . # . . # 
         . . . # .
-        `</field></block></statement><statement name="ELSE"><block type="device_show_leds" id="F,e);hOI_jYa.+PJ+73%"><field name="LEDS">`
+        `</field></block></statement><statement name="ELSE"><block type="device_show_leds" id="K~YuQ(Lete;Ud:y`9wN$"><field name="LEDS">`
         # . . . # 
         . # . # . 
         . . # . . 
         . # . # . 
         # . . . #
-        `</field></block></statement></block></statement></block><block type="device_forever" id="uQ/1L@WTUB8^CJBcq+`2" x="-3002" y="311"/></xml>
+        `</field></block></statement></block></statement></block><block type="device_forever" id="YRAR]0m.Pe{{z]DAgpB4" x="-3002" y="311"/></xml>
